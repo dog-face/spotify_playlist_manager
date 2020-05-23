@@ -1,3 +1,7 @@
 credentials.ini
 .cache-*
 .idea/
+env
+.env
+venv
+.venv
