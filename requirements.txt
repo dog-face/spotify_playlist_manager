@@ -13,7 +13,7 @@ hyperlink==17.3.1
 idna==2.6
 incremental==16.10.1
 ipaddress==1.0.17
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 PAM==0.4.2
 pyasn1==0.4.2
